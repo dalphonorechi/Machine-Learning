@@ -1,0 +1,1 @@
+As part of freeCodeCamp.org Machine Learning with Python Developer certification, I built the following projects and got all automated test suites to pass
