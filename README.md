@@ -2,4 +2,4 @@ As part of freeCodeCamp.org Machine Learning with Python Developer certification
 
 One of the project is hosted on replit.com since it is pure python.
 
-The Link is : (Rock Paper Scissors)[https://replit.com/@dalphonorechi/boilerplate-rock-paper-scissors]
+The Link is : [Rock Paper Scissors](https://replit.com/@dalphonorechi/boilerplate-rock-paper-scissors).
